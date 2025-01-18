@@ -119,5 +119,7 @@ function mousePressed() {
 }
 
 function doubleClicked() {
-  redraw();
+  crabX = 30;
+  crabY = 300; //Just reset the crab position but not the background
+
 }
