@@ -9,7 +9,9 @@ Here is a URL to the webpage for this project: [Link](https://climedu.github.io/
 - Post a link to your GitHub account on the course discussion board on Canvas.
 
 ## Overview
-- 
+- Following the instruction on the wrkshop
+- Create shapes that add overtime
+- Time based function
 
 ## Workshop Notes
 
